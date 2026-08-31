@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Yash%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Software%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Yash%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Software%20Developer&descAlignY=55&descSize=18" alt="Yash Profile Header" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -143,16 +143,16 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yashbuilds01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbuilds01&layout=compact&theme=tokyonight&hide=html,css&border_radius=10&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yashbuilds01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbuilds01&layout=compact&theme=tokyonight&hide=html,css&border_radius=10&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbuilds01&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbuilds01&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbuilds01&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbuilds01&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
 </div>
 
 ---
@@ -161,20 +161,20 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/yash-goyal-6a8a00343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Yashbuilds01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:yashgoyal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
 
 <div align="center">
