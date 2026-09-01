@@ -1,33 +1,19 @@
 <div align="center">
 
-<!-- Profile Header Banner -->
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Yash%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Software%20Developer&descAlignY=55&descSize=18"
-  alt="Yash Profile Header"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20There,%20I%27m%20Yash%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20universe%20%F0%9F%8C%8C&descAlignY=58&descSize=18" alt="Header" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vcenter=true&width=600&lines=Building+Modern+Web+Experiences+%F0%9F%92%BB;Full-Stack+%26+Software+Developer+%E2%9A%A1;Voice+AI+%26+Automation+Specialist+%F0%9F%A4%96;Clean+Code+%2B+Minimalist+Design+%3D+%E2%9D%A4%EF%B8%8F"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vcenter=true&width=650&lines=Building+Modern+Web+Experiences+%F0%9F%92%BB;Full-Stack+%26+Software+Developer+%E2%9A%A1;Voice+AI+%26+Automation+Specialist+%F0%9F%A4%96;Clean+Code+%2B+Minimalist+Design+%3D+%E2%9D%A4%EF%B8%8F"
     alt="Typing SVG"
   />
 </a>
 
 <br><br>
 
-<!-- Profile Stats -->
 <p>
-  <img
-    src="https://komarev.com/ghpvc/?username=Yashbuilds01&color=F72585&style=for-the-badge&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/Yashbuilds01?label=FOLLOWERS&style=for-the-badge&color=F72585&logoColor=white"
-    alt="Followers"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Yashbuilds01&label=PROFILE+VIEWS&color=F72585&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yashbuilds01?label=FOLLOWERS&style=for-the-badge&color=F72585&logoColor=white" alt="Followers" />
 </p>
 
 </div>
@@ -38,13 +24,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Speech_Recognition-4D7B8C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/pyttsx3-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Speech_Recognition-4D7B8C?style=for-the-badge&logo=python&logoColor=white" alt="Speech Recognition" />
+<img src="https://img.shields.io/badge/pyttsx3-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="pyttsx3" />
 
 </div>
 
@@ -74,21 +60,17 @@
 <h3 align="center">🤖 Jarvis AI Voice Assistant</h3>
 
 <p align="center">
-A voice-operated personal assistant inspired by Iron Man's Jarvis.
-Features Wikipedia searches, weather reports, music playback,
-news headlines, and web browsing through voice commands.
+A voice-operated personal assistant inspired by Iron Man's Jarvis. Features Wikipedia searches, weather reports, music playback, news headlines, and web browsing through voice commands.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Speech_Recognition-4D7B8C?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/pyttsx3-FF6B6B?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Speech_Recognition-4D7B8C?style=flat-square&logo=python&logoColor=white" alt="Speech Recognition" />
+<img src="https://img.shields.io/badge/pyttsx3-FF6B6B?style=flat-square&logo=python&logoColor=white" alt="pyttsx3" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Yashbuilds01/Jarvis-in-python-">
-View Repository →
-</a>
+<a href="https://github.com/Yashbuilds01/Jarvis-in-python-">View Repository →</a>
 </p>
 
 </td>
@@ -98,20 +80,17 @@ View Repository →
 <h3 align="center">🎬 Netflix Clone</h3>
 
 <p align="center">
-Responsive Netflix-inspired landing page featuring a hero section,
-trending shows grid, device showcase, FAQ section, and hover effects.
+Responsive Netflix-inspired landing page featuring a hero section, trending shows grid, device showcase, FAQ section, and hover effects.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-Design-success?style=flat-square" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Responsive-Design-success?style=flat-square" alt="Responsive Design" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Yashbuilds01/Netflix-clone-">
-View Repository →
-</a>
+<a href="https://github.com/Yashbuilds01/Netflix-clone-">View Repository →</a>
 </p>
 
 </td>
@@ -125,20 +104,17 @@ View Repository →
 <h3 align="center">📚 DSA & Competitive Programming</h3>
 
 <p align="center">
-Solutions to data structure problems, algorithms, and competitive
-programming challenges.
+Solutions to data structure problems, algorithms, and competitive programming challenges.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Yashbuilds01/DSA-and-competitive-programming">
-View Repository →
-</a>
+<a href="https://github.com/Yashbuilds01/DSA-and-competitive-programming">View Repository →</a>
 </p>
 
 </td>
@@ -148,19 +124,16 @@ View Repository →
 <h3 align="center">🔧 FileSortify</h3>
 
 <p align="center">
-An intelligent file organization utility that automatically sorts
-and manages files in system directories.
+An intelligent file organization utility that automatically sorts and manages files in system directories.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-00A0D2?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Automation-00A0D2?style=flat-square&logo=python&logoColor=white" alt="Automation" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Yashbuilds01/FileSortify">
-View Repository →
-</a>
+<a href="https://github.com/Yashbuilds01/FileSortify">View Repository →</a>
 </p>
 
 </td>
@@ -174,19 +147,16 @@ View Repository →
 <h3 align="center">📚 Library Management System</h3>
 
 <p align="center">
-Desktop application for managing library records, book inventory,
-members, and checkout/return operations.
+Desktop application for managing library records, book inventory, members, and checkout/return operations.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-336791?style=flat-square&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Database-336791?style=flat-square&logo=database&logoColor=white" alt="Database" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Yashbuilds01/Library_management_system">
-View Repository →
-</a>
+<a href="https://github.com/Yashbuilds01/Library_management_system">View Repository →</a>
 </p>
 
 </td>
@@ -196,19 +166,16 @@ View Repository →
 <h3 align="center">☕ Cafe Manager</h3>
 
 <p align="center">
-Cafe management application for tracking orders, managing inventory,
-and handling customer transactions.
+Cafe management application for tracking orders, managing inventory, and handling customer transactions.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Management-FF6B6B?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Management-FF6B6B?style=flat-square&logo=python&logoColor=white" alt="Management" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Yashbuilds01/cafe-manager">
-View Repository →
-</a>
+<a href="https://github.com/Yashbuilds01/cafe-manager">View Repository →</a>
 </p>
 
 </td>
@@ -240,17 +207,8 @@ View Repository →
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Yashbuilds01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbuilds01&layout=compact&theme=tokyonight&hide=html,css&border_radius=10&hide_border=true"
-  alt="Top Languages"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashbuilds01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbuilds01&layout=compact&theme=tokyonight&hide=html,css&border_radius=10&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -258,10 +216,7 @@ View Repository →
 
 <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbuilds01&theme=tokyonight&border_radius=10&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com/?user=Yashbuilds01&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff" alt="GitHub Streak" />
 
 </div>
 
@@ -269,11 +224,7 @@ View Repository →
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbuilds01&theme=tokyo-night&hide_border=true&area=true"
-  width="98%"
-  alt="GitHub Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbuilds01&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -299,14 +250,9 @@ View Repository →
 
 <br>
 
-<!-- Footer -->
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
 
